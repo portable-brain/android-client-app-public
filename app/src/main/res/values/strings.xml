@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Portable Brain</string>
+    <string name="accessibility_service_label">Portable Brain UI Observer</string>
+    <string name="accessibility_service_description">Reads on-screen UI elements to build a behavioral memory of your device usage. No content is stored locally — observations are sent to the Portable Brain backend.</string>
+    <string name="notification_channel_id">portable_brain_tracking</string>
+    <string name="notification_channel_name">Tracking</string>
+    <string name="notification_title">Portable Brain</string>
+    <string name="notification_text_active">Tracking active</string>
+</resources>

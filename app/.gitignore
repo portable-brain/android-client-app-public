@@ -1,0 +1,10 @@
+*/.idea/*
+.gradle/
+local.properties
+build/
+*/build/
+captures/
+*.iml
+
+# Firebase config — contains API keys, must not be committed
+google-services.json
